@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<definitions>
+	<definition>
+		<key>sample_template_extension_name</key>
+		<value><![CDATA[Sample Template Extension]]></value>
+	</definition>
+	<definition>
+   <key>sample_template_extension_description</key>
+   <value><![CDATA[Sample extension to illustrate how to build simple extension for AbanteCart.]]></value>
+ </definition>
+</definitions>
